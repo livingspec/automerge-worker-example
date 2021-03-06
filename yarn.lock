@@ -1721,7 +1721,7 @@ fsevents@~2.3.1:
   languageName: node
   linkType: hard
 
-"next@npm:^10.0.7":
+"next@npm:^10.0.8":
   version: 10.0.8
   resolution: "next@npm:10.0.8"
   dependencies:
@@ -2943,7 +2943,7 @@ typescript@^4.2.3:
     "@types/node": ^14.14.31
     "@types/react": ^17.0.2
     automerge-wasm: "livingspec/automerge-wasm#4d39ace2ea18d5c8621274f9e1e61cdb3e535549"
-    next: ^10.0.7
+    next: ^10.0.8
     react: 17.0.1
     react-dom: 17.0.1
     typescript: ^4.2.3
