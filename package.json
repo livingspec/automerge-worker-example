@@ -8,7 +8,7 @@
     "start": "next start"
   },
   "dependencies": {
-    "automerge-wasm": "livingspec/automerge-wasm#4d39ace2ea18d5c8621274f9e1e61cdb3e535549",
+    "automerge-wasm": "livingspec/automerge-wasm#5d1f763e43fc3039b61ebd9e628d9d26d37b9ec5",
     "next": "^10.0.8",
     "react": "17.0.1",
     "react-dom": "17.0.1"
